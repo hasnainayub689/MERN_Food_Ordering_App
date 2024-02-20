@@ -1,0 +1,29 @@
+<!-- Backend Setup -->
+
+<!-- Dependencies -->
+
+npm i express cors dotenv mongodb mongoose
+
+express will handle our API request from the font end
+
+cors is a security thing, basically helps us to configure the backend to accpet our block request that come from different domains & ports.
+
+dotenv to set enviroment variables
+
+mongodb mongoose will help us interact with our data base from our backend code
+
+<!-- Dev Dependencies -->
+
+npm i ts-node typescript nodemon @types/express @types/cors @types/node --save-dev
+
+ts-node is basicllay typescript for node
+
+typscript it will install typescript interactual in the project
+
+nodemon is for hard reloading it means server is going to restart automatically and give us the changes.
+
+@types will helps us like intelisense
+
+<!-- Then install typescript config  -->
+
+npx tsc --init

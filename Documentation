@@ -1,0 +1,74 @@
+WorkFlow:
+
+1. Backend Setup
+2. Frontend Setup
+3. Database Setup
+4. React Router Setup
+5. Layout and Header
+6. Mobile Navigation
+7. Desktop Navigation
+8. Responsive Landing Page
+9. Auth0 Overview
+10. Auth0 Setup
+11. Authenticated User Links
+12. Create User Profile Overview
+13. User Model
+14. Create User API
+15. Create User Request
+16. Auth0 Access Token
+17. Validate Access Token
+18. Update User Profile API
+19. User Profile Form
+20. Update User Profile Request
+21. Toast Notifications
+22. Get User API
+23. Pre-populate User Profile Form
+24. Protect User Profile Router
+25. First Deployment - Overview
+26. Backend GitHub Repository
+27. Backend Deploy to Render
+28. Frontend GitHub/Deployment
+29. Manage Restaurant Overview
+30. Cloudinary Setup
+31. Create Restaurant API
+32. Create Restaurant Form
+33. Create Restaurant API Request
+34. Get My Restaurant API
+35. Pre-populate Restaurant Form
+36. Update My Restaurant API
+37. Update My Restaurant Request
+38. Manage Restaurant Deploy
+39. Search Feature Overview
+40. Search API
+41. Searchbar Component
+42. Search API Request
+43. Search Page Layout
+44. Restaurant Test Data
+45. Search Filter
+46. Pagination
+47. Cuisines Filter
+48. Sort Options Filter
+49. Search Feature Deploy
+50. Detail Page and Menu Items
+51. Add to Cart
+52. Remove from Cart
+53. Checkout Button
+54. Confirm Delivery Details
+55. Update User Profile Form
+56. Payments Flow Overview
+57. Stripe Setup
+58. Create Session API
+59. Redirect to Stripe
+60. Create Order
+61. Stripe CLI Setup
+62. Start Stripe CLI with Nodemon
+63. Update Order in Stripe Webhook
+64. Checkout Flow Deploy
+65. Get Customer Orders API
+66. Get Customer Orders Request
+67. Order Status Page
+68. Order Status Config
+69. Restaurant Orders Page
+70. Update Order API
+71. Order Item Card Update Status
+72. Order Status Polling
